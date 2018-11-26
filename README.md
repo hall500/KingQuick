@@ -40,20 +40,20 @@ A lightweight PHP MVC framework for creating and deploying web applications quic
 Controller functions handle routing to pages as specified
 
 ## KingQuick CLI (KQCLI)
-All cli commands start with "php index.php parameters" accessed from root/web
-To get started with KQCLI enter "cd web" in command line at the root folder of your app
-To create a new model
-parameters: -m ModelName   or -model ModelName
-example: "php index.php -m Users"
-To create a new Controller
-parameters: -c ControllerName or -controller ControllerName
-example: "php index.php -c Todos"
-To create a new View
-parameters: -v ViewName or -view ViewName
-example: "php index.php -v todos"
-To create a new widget
-parameters: -w WidgetName or -widget WidgetName
-example: "php index.php -v alert"
-To create a controller and view together
-parameters: -q Name or -quick Name
-example: "php index.php -v Todos"
+#### All cli commands start with "php index.php parameters" accessed from root/web
+#### To get started with KQCLI enter "cd web" in command line at the root folder of your app
+#### To create a new model
+#### parameters: -m ModelName   or -model ModelName
+#### example: "php index.php -m Users"
+#### To create a new Controller
+#### parameters: -c ControllerName or -controller ControllerName
+#### example: "php index.php -c Todos"
+#### To create a new View
+#### parameters: -v ViewName or -view ViewName
+#### example: "php index.php -v todos"
+#### To create a new widget
+#### parameters: -w WidgetName or -widget WidgetName
+#### example: "php index.php -v alert"
+#### To create a controller and view together
+#### parameters: -q Name or -quick Name
+#### example: "php index.php -v Todos"
